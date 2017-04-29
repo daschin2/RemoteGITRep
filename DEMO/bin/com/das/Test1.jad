@@ -1,0 +1,22 @@
+// Decompiled by DJ v3.5.5.77 Copyright 2003 Atanas Neshkov  Date: 4/29/2017 5:36:50 PM
+// Home Page : http://members.fortunecity.com/neshkov/dj.html  - Check often for new version!
+// Decompiler options: packimports(3) 
+// Source File Name:   Test1.java
+
+package com.das;
+
+import java.io.PrintStream;
+
+public class Test1
+{
+
+    public Test1()
+    {
+    }
+
+    public static void main(String args[])
+    {
+        System.out.println("hiiii");
+        System.out.println("hlo");
+    }
+}
